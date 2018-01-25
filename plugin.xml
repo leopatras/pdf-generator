@@ -32,7 +32,7 @@
     <platform name="ios">
 
         <config-file target="config.xml" parent="/widget">
-            <feature name="pdfService">
+            <feature name="PDFService">
                 <param name="ios-package" value="PDFGenerator"/>
             </feature>
         </config-file>
